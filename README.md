@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+- 🔭 I’m currently working on an amendment to change a paper better. So please don't bother me, thank you.
+
 <!--
 **keenmisty/keenmisty** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
